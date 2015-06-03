@@ -1,0 +1,14 @@
+{
+  "name": "escolhendo-uma-pizza",
+  "version": "1.0.0",
+  "description": "Escolhendo uma Pizza",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- -R spec",
+    "install": "npm install -g mocha istanbul"
+  },
+  "author": "Dojo-SE GDG Aracaju",
+  "license": "GPL"
+}
